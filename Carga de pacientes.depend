@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697988382 source:c:\users\gatur\onedrive\escritorio\trabajo final labo 2 analisis clinico\carga de pacientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
